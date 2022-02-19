@@ -6,9 +6,9 @@
 </div>
 ~Meu nome é Kauã. :boy:
   <li>💻 | Developer "ético"
-  <li>🎨 | Designer.
-  <li>📅 | Tenho 17y.
-  <li>🌍 | Moro em SC-Florianopolis.
+  <li>🎨 | Designer..
+  <li>📅 | Tenho 17y..
+  <li>🌍 | Moro em SC-Florianopolis..
      
 </ul>
 
